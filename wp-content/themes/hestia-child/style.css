@@ -7,3 +7,7 @@ Version:      3.1.0
 Description:  Hestia Child-theme
 Author:       Laura
 */
+
+p {
+  color: red;
+}
